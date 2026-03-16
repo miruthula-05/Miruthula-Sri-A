@@ -1,64 +1,87 @@
-Hi, I'm Miruthulasri 👋
+# Hi, I'm Miruthulasri A 👋
 
-Final-year Artificial Intelligence & Machine Learning student  
-Passionate about building AI systems that solve real-world problems  
-Interested in AI, accessibility technology, education tech, and health tech  
+🎓 Final-year B.E. Artificial Intelligence and Machine Learning student
+💡 Interested in building AI systems that solve real-world problems in education, accessibility, agriculture, and health.
 
-What I Build
+---
 
-I focus on creating AI-powered systems that improve human experiences in areas like learning, accessibility, agriculture, and health.
+## 🚀 Key Projects
 
-Key Projects
+### 🎨 Draw to Learn
 
-Draw2Learn 🎨
+AI-powered educational storytelling system that converts children’s hand-drawn sketches into narrated learning videos using computer vision and generative AI.
 
-AI-powered system that converts children's drawings into narrated educational videos using computer vision and generative AI.
+**Tech Stack:** Python, OpenCV, Generative AI, NLP
 
-EquiLearn 👩‍🎓
+---
 
-AI accessibility platform for visually impaired and hearing-impaired learners featuring voice navigation and sign-language avatar learning.
+### ♿ EquiLearn
 
-AgriBot 🌱
+AI-powered accessible learning platform supporting voice navigation for visually impaired users and sign-language learning modules for deaf students.
 
-AI-powered agricultural robot that analyzes soil health and recommends regenerative treatments for sustainable farming.
+**Tech Stack:** NLP, Supabase, SQL, Flutter (app), Python
 
-AI Nutrition Planner 🥗
+---
 
-Adaptive AI system that generates personalized nutrition plans based on gender, workout type, and calories burned.
+### 🌱 AgriBot
 
-Skills
+AI-powered autonomous robot that analyzes soil health using sensor data and machine learning to recommend regenerative treatments.
 
-Programming
-- Python
-- SQL
-- JavaScript
+**Tech Stack:** Python, Machine Learning, IoT Sensors, SQL
 
-AI / ML
-- TensorFlow
-- Computer Vision
-- NLP
+---
 
-Backend
-- Flask
-- Supabase
-- APIs
+### 🥗 AI Nutrition Planner 
 
-Tools
-- GitHub
-- VS Code
-- Flutter
-- Unity
+AI system that generates personalized nutrition recommendations based on gender, workout type, and calories burned.
 
+**Tech Stack:** Python, Machine Learning, Streamlit
 
-Interests
+---
 
-- AI for Education  
-- Accessibility Technology  
-- Health & Fitness AI  
-- Sustainable Technology  
+## 🧠 Technical Skills
 
+**Programming**
 
-Connect with me
+* Python
+* C
 
-LinkedIn: (www.linkedin.com/in/miruthulasri-a-98a583340 )  
-Email: (miruthula0510@gmail.com)
+**Artificial Intelligence**
+
+* Machine Learning
+* NLP
+* Computer Vision
+* Generative AI
+
+**Frameworks & Libraries**
+
+* TensorFlow
+* Flask
+* OpenCV
+* NLTK
+* Streamlit
+
+**Data & Databases**
+
+* SQL
+* MySQL
+* Supabase
+
+**Data Analysis & Visualization**
+
+* PowerBI
+* Tableau
+
+**Tools**
+
+* Git
+* VS Code
+* Google Colab
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/miruthulasri-a-98a583340](http://www.linkedin.com/in/miruthulasri-a-98a583340)
+
+Email: [miruthula0510@gmail.com](mailto:miruthula0510@gmail.com)
